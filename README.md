@@ -46,4 +46,4 @@ Global development data is vast and constantly updating. Relying on manual CSV d
 
 ### 7. Dashboard Demo:
 
-![Dashboard Demo](https://github.com/chinmai-budati/World-Indicators-Dashboard/blob/main/WorldIndicatorsDashboard.gif)
+![Dashboard Demo](https://github.com/chinmai-budati/World-Indicators-Dashboard/blob/main/Demo.gif)

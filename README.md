@@ -45,7 +45,10 @@ Global development data is vast and constantly updating. Relying on manual CSV d
 * **Targeted Resource Allocation:** By visually isolating countries with the least progress in poverty reduction, the dashboard helps direct NGO and donor resources where they are needed most.
 
 ### 7. Dashboard Demo:
+**[Click Here to Interact with the Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWRkZmQ3NTEtOGY5Ni00Nzg2LTg5MDktOGI5ZTkwMGU0ZWM3IiwidCI6IjhlMjQ0OTAwLWJiZDQtNGNlMC1iNzlhLTQ4ZTMwYWRjMDFkNyJ9
+)**
+
+(If the live link is unavailable, view the automated system demonstration below)
 
 https://github.com/user-attachments/assets/a852872d-03c7-4edc-b121-8fea38d7ced9
-
 
